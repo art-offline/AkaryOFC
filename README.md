@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://discord.com/users/379954079553552386">
-    <img align="right" width="350" src="https://lanyard.kyrie25.me/api/379954079553552386?bannerFilter=brightness(0.8)%20blur(2px)&decoration=true&useDisplayName=true" />
-  </a>
 </div>
 
 <h1 align="center" style="color: #e0e0e0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
