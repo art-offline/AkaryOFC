@@ -1,18 +1,16 @@
 <div align="center">
 </div>
 
-<h1 align="center" style="color: #e0e0e0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <i class="fas fa-code"></i> Bienvenue dans mon univers AkOFFICE
+<h1 align="center" style="color: #690009; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <i class="fas fa-code"></i> ART-OFFLINE
 </h1>
 
-![Banner](https://i.imgur.com/4m6Sc7P.gif))
-
-<h2 align="left" style="color: #e0e0e0;">Qui suis-je ?</h2>
-<p align="left" style="color: #d0d0d0;">
+<h2 align="left" style="color: #690009;">Qui suis-je ?</h2>
+<p align="left" style="color: #030203;">
   Je m'appelle <strong>ART-OFFLINE</strong>, CEO de <strong>AK-OFFICE</strong> et développeur fullstack de 22 ans, passionné par les nouvelles technologies et la création de solutions numériques innovantes. Depuis que j'ai découvert le code, j'ai cherché à repousser les limites du possible, alliant design épuré et technologies avancées pour donner vie à des projets ambitieux.
 </p>
 
-<ul align="left" style="color: #c0c0c0;">
+<ul align="left" style="color: #030203;">
   <li><i class="fas fa-briefcase"></i> <strong>Fondateur et CEO</strong> de <strong>AkOFFICE</strong> (aussi connu sous AkOFC), une entreprise technologique qui conçoit des solutions personnalisées.</li>
   <li><i class="fas fa-code"></i> <strong>Fullstack Developer</strong> maîtrisant : ASP.NET, PHP, HTML, CSS, JavaScript. (et bien d'autes)</li>
   <li><i class="fas fa-paint-brush"></i> Enthousiaste du design moderne, intégrant une esthétique minimaliste et futuriste dans mes projets.</li>
@@ -20,8 +18,8 @@
 
 <hr style="border: 1px solid #444;" />
 
-<h2 align="left" style="color: #e0e0e0;">Ce que je fais :</h2>
-<ul align="left" style="color: #d0d0d0;">
+<h2 align="left" style="color: #690009;">Ce que je fais :</h2>
+<ul align="left" style="color: #030203;">
   <li><i class="fas fa-laptop-code"></i> Transformation digitale avec des applications web robustes et modernes.</li>
   <li><i class="fas fa-cogs"></i> Solutions sur mesure pour clients et entreprises, du design à l'intégration.</li>
   <li><i class="fas fa-server"></i> Maintenance et gestion de systèmes complexes pour garantir des performances optimales.</li>
@@ -30,8 +28,8 @@
 
 <hr style="border: 1px solid #444;" />
 
-<h2 align="left" style="color: #e0e0e0;">Technologies que j'aime utiliser :</h2>
-<p align="left" style="color: #d0d0d0;">
+<h2 align="left" style="color: #690009;">Technologies que j'aime utiliser :</h2>
+<p align="left" style="color: #030203;">
   <a href="https://dotnet.microsoft.com/apps/aspnet">
     <img src="https://img.shields.io/badge/ASP.NET-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
   </a>
@@ -58,11 +56,11 @@
 
 <hr style="border: 1px solid #444;" />
 
-<h2 align="left" style="color: #e0e0e0;">Toujours en évolution :</h2>
-<p align="left" style="color: #d0d0d0;">
+<h2 align="left" style="color: #690009;">Toujours en évolution :</h2>
+<p align="left" style="color: #030203;">
   Le monde du développement ne s'arrête jamais, et moi non plus. Je suis en perpétuelle quête d'apprentissage, explorant les nouvelles technologies émergentes pour rester à la pointe de l'innovation.
 </p>
-<ul align="left" style="color: #c0c0c0;">
+<ul align="left" style="color: #030203;">
   <li><i class="fas fa-puzzle-piece"></i> Projets Open Source : Collaborer et partager mes compétences avec la communauté.</li>
   <li><i class="fas fa-robot"></i> Passionné par l'IA, la Blockchain, et les nouvelles interfaces homme-machine.</li>
   <li><i class="fas fa-globe"></i> Objectif : Contribuer à créer un monde où la technologie simplifie la vie de chacun.</li>
@@ -70,11 +68,11 @@
 
 <hr style="border: 1px solid #444;" />
 
-<h2 align="left" style="color: #e0e0e0;">Restons en contact !</h2>
-<p align="left" style="color: #d0d0d0;">
+<h2 align="left" style="color: #690009;">Restons en contact !</h2>
+<p align="left" style="color: #030203;">
   Je suis toujours ouvert à de nouvelles opportunités, collaborations, ou simplement à échanger autour de la tech.
 </p>
-<ul align="left" style="color: #c0c0c0;">
+<ul align="left" style="color: #030203;">
   <li><i class="fas fa-globe"></i> Site Web : <a href="https://akofc.dev" style="color: #6bb3f0;">AkOFC.dev</a></li>
   <li><i class="fas fa-envelope"></i> Email : <a href="mailto:pro@akofc.dev" style="color: #6bb3f0;">pro@akofc.dev</a></li>
 </ul>
