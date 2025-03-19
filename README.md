@@ -5,16 +5,16 @@
   <i class="fas fa-code"></i> Bienvenue dans mon univers AkOFFICE
 </h1>
 
-![Banner](https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif)
+![Banner](https://i.imgur.com/4m6Sc7P.gif))
 
 <h2 align="left" style="color: #e0e0e0;">Qui suis-je ?</h2>
 <p align="left" style="color: #d0d0d0;">
-  Je m'appelle <strong>Mathis</strong>, PDG de <strong>AkOFFICE</strong> et développeur fullstack de 21 ans, passionné par les nouvelles technologies et la création de solutions numériques innovantes. Depuis que j'ai découvert le code, j'ai cherché à repousser les limites du possible, alliant design épuré et technologies avancées pour donner vie à des projets ambitieux.
+  Je m'appelle <strong>ART-OFFLINE</strong>, CEO de <strong>AK-OFFICE</strong> et développeur fullstack de 22 ans, passionné par les nouvelles technologies et la création de solutions numériques innovantes. Depuis que j'ai découvert le code, j'ai cherché à repousser les limites du possible, alliant design épuré et technologies avancées pour donner vie à des projets ambitieux.
 </p>
 
 <ul align="left" style="color: #c0c0c0;">
   <li><i class="fas fa-briefcase"></i> <strong>Fondateur et CEO</strong> de <strong>AkOFFICE</strong> (aussi connu sous AkOFC), une entreprise technologique qui conçoit des solutions personnalisées.</li>
-  <li><i class="fas fa-code"></i> <strong>Fullstack Developer</strong> maîtrisant : ASP.NET, PHP, HTML, CSS, JavaScript.</li>
+  <li><i class="fas fa-code"></i> <strong>Fullstack Developer</strong> maîtrisant : ASP.NET, PHP, HTML, CSS, JavaScript. (et bien d'autes)</li>
   <li><i class="fas fa-paint-brush"></i> Enthousiaste du design moderne, intégrant une esthétique minimaliste et futuriste dans mes projets.</li>
 </ul>
 
@@ -78,9 +78,5 @@
   <li><i class="fas fa-globe"></i> Site Web : <a href="https://akofc.dev" style="color: #6bb3f0;">AkOFC.dev</a></li>
   <li><i class="fas fa-envelope"></i> Email : <a href="mailto:pro@akofc.dev" style="color: #6bb3f0;">pro@akofc.dev</a></li>
 </ul>
-
-<hr style="border: 1px solid #444;" />
-
-<blockquote style="color: #a0a0a0;">"La technologie n'a de sens que si elle améliore la vie de ceux qui l'utilisent." – AkOFC</blockquote>
 
 <hr style="border: 1px solid #444;" />
